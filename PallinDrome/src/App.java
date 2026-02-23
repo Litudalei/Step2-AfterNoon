@@ -1,5 +1,5 @@
 public class App {
     static void main() {
-        System.out.println("welcome to our app");
+        System.out.println("welcome to Login app");
     }
 }
